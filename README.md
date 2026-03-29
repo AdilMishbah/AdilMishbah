@@ -32,4 +32,4 @@ AI tools, Prompt Engineering, and Data Visualization with Power BI.
 
 📫 Connect with Me
 - LinkedIn : linkedin.com/in/adilmishbah
-- Email    : adilmishbah5@gmail.com@gmail.com
+- Email    : adilmishbah5@gmail.com
