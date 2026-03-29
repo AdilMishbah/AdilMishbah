@@ -1,7 +1,7 @@
 👋 Hi, I'm Adil Mishbah
 
 🎓 BCA Graduate from LNCT | Pursuing MCA at Bhabha University
-📍 Raipur, Chhattisgarh, India
+📍 Bhopal, India
 💼 Actively looking for Entry-Level Developer Roles
 
 ---
