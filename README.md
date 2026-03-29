@@ -31,5 +31,5 @@ AI tools, Prompt Engineering, and Data Visualization with Power BI.
 ---
 
 📫 Connect with Me
-- LinkedIn : linkedin.com/in/Adil Mishbah
+- LinkedIn : linkedin.com/in/AdilMishbah
 - Email    : adilmishbah5@gmail.com
